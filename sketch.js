@@ -73,9 +73,10 @@ function mouseReleased(){
   slingshot.fly();
 }
 
-function KeyPressed()/*
+/*function KeyPressed()
 {
 if (keyCode=== 32){
   sling.attach(this.polygon)
 }
 }*/
+
